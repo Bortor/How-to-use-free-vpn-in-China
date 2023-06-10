@@ -1,11 +1,14 @@
 ## 如何在中国大陆免费使用vpn
 众所周知，在国内使用vpn是十分困难的。但是我最近摸索了一下，发现了一个免费的在中国大陆永久使用vpn的方法，需要邮箱
 
+
+
 ##第一步
 首先 打开http://run.weaksharedptr.com/
 注册之后他可以送你200M的流量
 ![](https://webdownload.duangspeed.com/misc/img/641fdd5a57856801bd7a8ff4.png)
 这只是作为一个跳板。
+
 
 
 ##第二步
