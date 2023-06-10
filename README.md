@@ -3,7 +3,7 @@
 
 
 
-##第一步
+## 第一步
 首先 打开http://run.weaksharedptr.com/
 注册之后他可以送你200M的流量
 ![](https://webdownload.duangspeed.com/misc/img/641fdd5a57856801bd7a8ff4.png)
@@ -11,7 +11,7 @@
 
 
 
-##第二步
+## 第二步
 在下载软件，随便连一个节点，打开加速
 打开https://account.protonvpn.com/downloads
 创建一个账号
@@ -21,4 +21,4 @@
 
 ##
 这个protonvpn是可以全平台使用的
-但免费的话速度一般，但是看youtube是肯定没问题的
+但免费的话速度一般，但是看youtube是肯定没问题的，当然，你也可以选择付费，那就是你的事了
